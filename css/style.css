@@ -1,0 +1,29 @@
+.my-row {
+  border: 2px solid black;
+}
+.my-col {
+  border: 1px dotted blue;
+  margin: 10px;
+  text-align: center;
+}
+
+.my-container {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.my-video {
+  height: 3%;
+  width: 50%;
+}
+
+.heading-col {
+  text-align: center;
+  padding-left: 7rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgreen;
+}
+
+.my-card {
+  margin-top: 2rem;
+}
